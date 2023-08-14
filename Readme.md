@@ -1,4 +1,4 @@
-# Merhaba, Benim Adım [Adınız]
+# Merhaba, Benim Adım Mustafa
 [![Profile Image](https://github.com/[pamparushka].png)](https://github.com/[pamparushka])
 
 ## Hakkımda
