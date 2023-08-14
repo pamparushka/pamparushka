@@ -3,10 +3,10 @@
 
 ## Hakkımda
 
-Merhaba! Ben Mustafa. Yazılım geliştirme ile ilgileniyorum ve burada projelerimi paylaşıyorum. Aynı zamanda Yıldız Teknik Üniversite'sinde Bilgisayar Mühendisliği okuyorum.
+Merhaba! Ben Mustafa. Yazılım geliştirme ile ilgileniyorum ve burada projelerimi paylaşıyorum. Aynı zamanda Yıldız Teknik Üniversitesi'nde Bilgisayar Mühendisliği okuyorum.
 
-- 🌱 Şu anda öğrenmekte olduğum şeyler: [JavaScript,DiscordJS]
-- 📫 Benimle iletişime geçmek isterseniz: [riv@riv.com.tr]
+- 🌱 Şu anda öğrenmekte olduğum şeyler: JavaScript, DiscordJS
+- 📫 Benimle iletişime geçmek isterseniz: [riv@riv.com.tr](mailto:riv@riv.com.tr)
 
 ## GitHub İstatistikleri
 
@@ -18,9 +18,8 @@ Merhaba! Ben Mustafa. Yazılım geliştirme ile ilgileniyorum ve burada projeler
 
 ## Projelerim
 
-### [Proje Adı 1](https://github.com/pamparushka/Deprem-Bot)
-Bu proje türkiyede olan depremlerden anlık olarak haberdar olmanız için geliştirildi
-
+### [Deprem Bilgilendirme](https://github.com/pamparushka/Deprem-Bot)
+Bu proje Türkiye'deki depremlerden anlık olarak haberdar olmanız için geliştirildi.
 
 ## İlgi Alanlarım
 
@@ -31,4 +30,6 @@ Bu proje türkiyede olan depremlerden anlık olarak haberdar olmanız için geli
 
 ## Sosyal Medya Hesapları
 
-[LinkedIn](https://www.linkedin.com/in/pamparushka/) | [Twitter](https://twitter.com/pamparushka/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamparushka/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pamparushka/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/user/pamparushka)
