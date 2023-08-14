@@ -16,6 +16,10 @@ Merhaba! Ben Mustafa. Yazılım geliştirme ile ilgileniyorum ve burada projeler
 
 ![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=pamparushka&layout=compact)
 
+## Profil Ziyaret Sayısı
+
+![Profil Ziyaret Sayısı](https://komarev.com/ghpvc/?username=pamparushka)
+
 ## Projelerim
 
 ### [Deprem Bilgilendirme](https://github.com/pamparushka/Deprem-Bot)
