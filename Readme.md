@@ -32,8 +32,10 @@ Bu proje Türkiye'deki depremlerden anlık olarak haberdar olmanız için geliş
 - Yapay Zeka
 - Web Geliştirme
 
-## Sosyal Medya Hesapları
+## Sosyal Medya ve İletişim
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamparushka/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pamparushka/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/user/pamparushka)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/AkfJ9HHK)
+![Discord Server](https://img.shields.io/discord/1138865719157723146?color=7289DA&label=Discord&style=flat-square)
