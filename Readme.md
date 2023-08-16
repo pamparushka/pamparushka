@@ -3,8 +3,6 @@
 
 ## Hakkımda
 
-Merhaba! Ben Mustafa. Yazılım geliştirme ile ilgileniyorum ve burada projelerimi paylaşıyorum. Aynı zamanda Yıldız Teknik Üniversitesi'nde Bilgisayar Mühendisliği okuyorum.
-
 - 🌱 Şu anda öğrenmekte olduğum şeyler: JavaScript, DiscordJS
 - 📫 Benimle iletişime geçmek isterseniz: [riv@riv.com.tr](mailto:riv@riv.com.tr)
 
